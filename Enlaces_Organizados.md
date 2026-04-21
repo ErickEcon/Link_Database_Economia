@@ -191,6 +191,7 @@ Este documento contiene una recopilación organizada de enlaces útiles para el 
 | Gary Koop                                               | [https://sites.google.com/site/garykoop/home?authuser=0](https://sites.google.com/site/garykoop/home?authuser=0)                                                                                         |
 | Economía, Econometría, Finanzas, Excel, Pyhton          | [https://www.youtube.com/@NEDLeducation/playlists](https://www.youtube.com/@NEDLeducation/playlists)                                                                                                     |
 | Métodos de aprendizaje                                  | [https://www.learningscientists.org/](https://www.learningscientists.org/)                                                                                                                               |
+| Cesar Martinelli                                        | [https://sites.google.com/site/martinellicesar/home?pli=1](https://sites.google.com/site/martinellicesar/home?pli=1)                                                                                     |
 
 ## Otros Datasets (Práctica y Scraping)
 
