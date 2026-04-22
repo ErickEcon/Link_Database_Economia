@@ -43,6 +43,11 @@ Este documento contiene una recopilación organizada de enlaces útiles para el 
 | UNCTADstat                                                                                            | [https://unctadstat.unctad.org/](https://unctadstat.unctad.org/)                                                                                             |
 | EuroStat                                                                                              | [https://ec.europa.eu/eurostat/data/database](https://ec.europa.eu/eurostat/data/database)                                                                   |
 | Research and expertise on the world economy                                                           | [https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp](https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp)                                           |
+| Competencia y Desarrollo LAC - BID                                                                    | [https://competelac.fislac.com/](https://competelac.fislac.com/)                                                                                             |
+
+
+
+
 
 ## Bases de Datos Nacionales - EEUU
 
